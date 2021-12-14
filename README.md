@@ -2,6 +2,11 @@
 ## Fall 2021
 ## COMS 4995 - Deep Learning for Computer Vision
 
+### Team Members
+1. Aishwarya Sarangu (als2389)
+2. Vaibhav Goyal (vg2498)
+
+
 #### 1. Presentation Video Link
 Check [this link](https://youtu.be/JeA7tZ-yUAM)
 
